@@ -39,7 +39,7 @@
   },
   {
     "id": 3,
-    "email": "",
+    "email": "@",
     "nombre": "",
     "fecha_expiracion": "2025-07-14",
     "superUsuario": false,
