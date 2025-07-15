@@ -1,17 +1,17 @@
 [
   {
-    "usuario": 123456789,
-    "servidor": "Bybit-Live",
+    "login": 123456789,
+    "server": "Bybit-Live",
     "fecha_expiracion": "2025-08-01"
   },
   {
-    "usuario": 12345678,
-    "servidor": "ICMarkets-Demo",
+    "login": 12345678,
+    "server": "ICMarkets-Demo",
     "fecha_expiracion": "2025-08-01"
   },
   {
-    "usuario": 87654321,
-    "servidor": "XMGlobal-Real 2",
+    "login": 87654321,
+    "server": "XMGlobal-Real 2",
     "fecha_expiracion": "2025-07-31"
   }
 ]
