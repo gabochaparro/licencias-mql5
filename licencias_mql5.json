@@ -1,14 +1,14 @@
 [
   {
     "email": "todocambiodivisa@gmail.com",
-    "nombre": " Gabriel Chaparro,
+    "nombre": "Gabriel Chaparro",
     "id": 0,
     "fecha_expiracion": "2025-08-01",
     "usuarios": 
     [
       {
       "login": 3787210,
-      "server"; "Bybit-Live"
+      "server": "Bybit-Live"
     },
       {
       "login": 52418409,
