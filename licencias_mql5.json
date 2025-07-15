@@ -1,11 +1,11 @@
 [
   {
-    "id": 0,
+    "id": 000,
     "email": "todocambiodivisa@gmail.com",
     "nombre": "Gabriel Chaparro",
     "fecha_expiracion": "2025-07-14",
     "superUsuario": true,
-    "usuarios": 
+    "logins": 
     [
       {
       "login": 3787210,
@@ -22,19 +22,27 @@
     ]
   },
   {
-    "id": 1,
+    "id": 001,
     "email": "andres.lezsan@gmail.com",
     "nombre": "Andres Lezcano",
     "fecha_expiracion": "2025-07-14",
     "superUsuario": true,
-    "usuarios": []
+    "logins": []
   },
   {
-    "id": 3,
+    "id": 002,
     "email": "",
     "nombre": "Christian Ortiz",
     "fecha_expiracion": "2025-07-14",
     "superUsuario": true,
-    "usuarios": []
+    "logins": []
+  },
+  {
+    "id": 003,
+    "email": "",
+    "nombre": "",
+    "fecha_expiracion": "2025-07-14",
+    "superUsuario": false,
+    "logins": []
   }
 ]
