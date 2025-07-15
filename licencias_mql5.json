@@ -4,7 +4,7 @@
     "email": "todocambiodivisa@gmail.com",
     "nombre": "Gabriel Chaparro",
     "fecha_expiracion": "2025-07-15",
-    "superUsuario": true,
+    "superUsuario": false,
     "usuarios": 
     [
       {
