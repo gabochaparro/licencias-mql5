@@ -20,5 +20,21 @@
         "server": "Exness-MT5Trial11"
       }
     ]
+  },
+  {
+    "id": 1,
+    "email": "andres.lezsan@gmail.com",
+    "nombre": "Andres Lezcano",
+    "fecha_expiracion": "2025-07-14",
+    "superUsuario": true,
+    "usuarios": []
+  },
+  {
+    "id": 3,
+    "email": "",
+    "nombre": "Christian Ortiz",
+    "fecha_expiracion": "2025-07-14",
+    "superUsuario": true,
+    "usuarios": []
   }
 ]
