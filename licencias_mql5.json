@@ -2,16 +2,19 @@
   {
     "login": 3787210,
     "server": "Bybit-Live",
-    "fecha_expiracion": "2025-08-01"
+    "fecha_expiracion": "2025-08-01",
+    "email": "todocambiodivisa@gmail.com"
   },
   {
     "login": 52418409,
     "server": "ICMarketsSC-Demo",
-    "fecha_expiracion": "2025-08-01"
+    "fecha_expiracion": "2025-08-01",
+    "email": "todocambiodivisa@gmail.com"
   },
   {
     "login": 197623682,
     "server": "Exness-MT5Trial11",
-    "fecha_expiracion": "2025-07-31"
+    "fecha_expiracion": "2025-07-31",
+    "email": "todocambiodivisa@gmail.com"
   }
 ]
