@@ -45,7 +45,7 @@
     "email": "@",
     "nombre": "",
     "superUsuario": false,
-    "expulsado": false,
+    "expulsado": true,
     "fecha_expiracion": "2025-07-14",
     "logins": []
   }
