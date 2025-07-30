@@ -20,7 +20,8 @@
         "login": 197623682,
         "server": "Exness-MT5Trial11"
       }
-    ]
+    ],
+    "eas": []
   },
   {
     "id": 1,
@@ -29,7 +30,8 @@
     "superUsuario": true,
     "expulsado": false,
     "fecha_expiracion": "2025-07-14",
-    "logins": []
+    "logins": [],
+    "eas": ["SMARTrange M5", "MARTINGALA STOCH"]
   },
   {
     "id": 2,
@@ -38,7 +40,8 @@
     "superUsuario": true,
     "expulsado": false,
     "fecha_expiracion": "2025-07-14",
-    "logins": []
+    "logins": [],
+    "eas": []
   },
   {
     "id": 3,
@@ -47,6 +50,7 @@
     "superUsuario": false,
     "expulsado": false,
     "fecha_expiracion": "2025-07-14",
-    "logins": []
+    "logins": [],
+    "eas": []
   }
 ]
